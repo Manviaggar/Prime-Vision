@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Think about the iconic yellow saree worn by Kajol in *Dilwale Dulhania Le Jayenge* or the stylish sunglasses sported by Ranveer Singh in *Gully Boy*. These Bollywood movies, available on Amazon Prime, have set significant fashion trends in India and beyond. Yet, while AI is revolutionizing various sectors, its potential in enhancing our shopping experiences remains largely untapped.
+Think about the iconic yellow saree worn by Kajol in *Dilwale Dulhania Le Jayenge* or the stylish sunglasses sported by Ranveer Singh in *Gully Boy*. These Bollywood movies,  have set significant fashion trends in India and beyond. Yet, while AI is revolutionizing various sectors, its potential in enhancing our shopping experiences remains largely untapped.
 
-Our project aims to bridge this gap by leveraging visual AI technology to improve product search, recommendations, and item identification in text, images, or video content. By extending the X-ray feature from Amazon Prime Video, we enable users to identify and directly purchase items featured in video content, such as furniture, clothing, and other products. This integration of AI and e-commerce creates a seamless, personalized, and engaging shopping experience.
+Our project aims to bridge this gap by leveraging visual AI technology to improve product search, recommendations, and item identification in video content. We enable users to identify and directly purchase items featured in video content, such as furniture, clothing, and other products. This integration of AI and e-commerce creates a seamless, personalized, and engaging shopping experience.
 
 ## Features
 
@@ -28,11 +28,6 @@ Our project aims to bridge this gap by leveraging visual AI technology to improv
 - **ONNX Runtime for WebAssembly**: Runs the YOLOv8 model for object detection within the Web Worker.
 
 ## Getting Started
-
-### Prerequisites
-
-- Modern web browser (e.g., Chrome, Firefox)
-- Basic understanding of HTML, CSS, and JavaScript
 
 ### Installation
 
