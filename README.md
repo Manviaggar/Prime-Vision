@@ -59,7 +59,7 @@ Our project aims to bridge this gap by leveraging visual AI technology to improv
 
   -  **Advanced Search Integration**: Improve the search algorithm to prioritize similar products at the top of the search results.
   -  **Expanding Object Detection**: Increase the range of detectable objects beyond the current 80 classes.
--  **Improved Accuracy**: Enhance the model's accuracy in identifying and recommending products.
+-  **Improved Accuracy**: Enhance the model's accuracy in identifying.
 
 ### Conclusion
 
