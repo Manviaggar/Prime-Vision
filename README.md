@@ -33,7 +33,7 @@ Our project aims to bridge this gap by leveraging visual AI technology to improv
 
 1. Clone the repository:
    ```bash
-   git clone [link]
+   git clone https://github.com/mohdhumaidd19/Prime-vision-19
 2. Open index.html in your web browser.
 
 ###  Usage
