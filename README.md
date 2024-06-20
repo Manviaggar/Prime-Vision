@@ -60,8 +60,6 @@ Our project aims to bridge this gap by leveraging visual AI technology to improv
   -  **Advanced Search Integration**: Improve the search algorithm to prioritize similar products at the top of the search results.
   -  **Expanding Object Detection**: Increase the range of detectable objects beyond the current 80 classes.
 -  **Improved Accuracy**: Enhance the model's accuracy in identifying and recommending products.
-  -  **User Feedback Loop**: Implement a system to gather user feedback and refine recommendations based on user preferences and behaviors.
-    - **Augmented Reality Integration**: Allow users to visualize how products will look in their own space using AR technology.
 
 ### Conclusion
 
